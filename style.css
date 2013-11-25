@@ -1,0 +1,2 @@
+#gmap {width: 100%; padding-bottom: 50%;} /* Padding Hack */
+#gmap img {max-width: inherit;} /* Icon Fix */
