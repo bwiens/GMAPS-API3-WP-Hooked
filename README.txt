@@ -5,6 +5,8 @@ While there are Wordpress plugins to do the work for you, they do do not allow a
 
 The map I built is responsive, and features an array of multiple custom markers with infowindows. The map has no limits for extentions that can be found found and added, see Google's Documentation https://developers.google.com/maps/documentation/javascript/.  
 
+See live demo at https://klnpa.org
+
 Components
 ==========
 1. Map Script
