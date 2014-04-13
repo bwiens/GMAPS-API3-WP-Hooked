@@ -1,7 +1,7 @@
 Google Maps API3 Wordpress Hooked
 =================================
 
-While there are Wordpress plugins to do the work for you, they do do not allow all the features and extensions of a custom script.
+While there are Wordpress plugins to do the work for you, they do not allow all the features and extensions of a custom script.
 
 The map I built is responsive, and features an array of multiple custom markers with infowindows. The map has no limits for extentions that can be found and added, see Google's Documentation https://developers.google.com/maps/documentation/javascript/.  
 
